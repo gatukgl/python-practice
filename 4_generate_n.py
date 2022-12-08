@@ -1,5 +1,5 @@
 generated_n = ""
-total_block = 8
+total_block = 9
 
 for i in range(0, total_block):
     for j in range(0, total_block):
